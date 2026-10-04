@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Hub",
+  "description": "Premium AI-powered study space with smart tutor, focus ambience, interactive flashcards, quizzes, and gamified progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
